@@ -1,9 +1,11 @@
 main {
     width: 80vw;
     margin: 0 auto;
+    
   }
 
   img {
     max-width: 100%;
     height: auto;
+      border: 5px dotted red;
   }
